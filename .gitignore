@@ -1,0 +1,8 @@
+# Node modules not to be inlcuded
+node_modules
+
+# public folder
+pub
+
+# MacOS files
+.DS_Store
